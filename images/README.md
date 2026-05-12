@@ -1,1 +1,1 @@
-Project prototype and testing images.
+Project prototype and circuit images.
